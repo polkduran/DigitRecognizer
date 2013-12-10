@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DigitRecognizer", "ConsoleApplication1\DigitRecognizer.fsproj", "{71674DFB-ED9F-44BC-812B-5AF67170BFF1}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DigitRecognizer", "DigitRecognizer\DigitRecognizer.fsproj", "{71674DFB-ED9F-44BC-812B-5AF67170BFF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
