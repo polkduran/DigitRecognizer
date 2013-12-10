@@ -1,9 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ML", "ML\ML.fsproj", "{D4C51847-444C-41F2-B2CD-5DC0518B356B}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.fsproj", "{71674DFB-ED9F-44BC-812B-5AF67170BFF1}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DigitRecognizer", "ConsoleApplication1\DigitRecognizer.fsproj", "{71674DFB-ED9F-44BC-812B-5AF67170BFF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D4C51847-444C-41F2-B2CD-5DC0518B356B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4C51847-444C-41F2-B2CD-5DC0518B356B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4C51847-444C-41F2-B2CD-5DC0518B356B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4C51847-444C-41F2-B2CD-5DC0518B356B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{71674DFB-ED9F-44BC-812B-5AF67170BFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71674DFB-ED9F-44BC-812B-5AF67170BFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71674DFB-ED9F-44BC-812B-5AF67170BFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
